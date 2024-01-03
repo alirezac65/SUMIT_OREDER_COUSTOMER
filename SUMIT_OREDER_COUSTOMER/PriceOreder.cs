@@ -16,6 +16,6 @@ namespace SUMIT_OREDER_COUSTOMER
             set { code_priceoreder = value; }
             get { return code_priceoreder; }
         }
-
+        
     }
 }
