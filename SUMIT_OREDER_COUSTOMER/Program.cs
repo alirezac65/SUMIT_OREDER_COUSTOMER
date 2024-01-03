@@ -10,7 +10,7 @@ namespace SUMIT_OREDER_COUSTOMER
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ali");
+           
         }
     }
 }
